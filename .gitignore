@@ -1,0 +1,6 @@
+#
+# Standard Maven .gitignore
+#
+target/
+.idea/
+
